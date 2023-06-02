@@ -1,18 +1,12 @@
 {
-  "forms": [
+  "pizzas": [
     {
-      "name": "OPD form",
-      "code": "OPD",
-      "id": "OPD",
-      "active": "TRUE",
-      "sortOrder": 1
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "name": "IPD form",
-      "code": "IPD",
-      "id": "IPD",
-      "active": "TRUE",
-      "sortOrder": 2
+      "id": 2,
+      "title": "Post 2"
     }
   ]
 }
