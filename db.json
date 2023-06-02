@@ -1,16 +1,18 @@
 {
   "pizzas": [
     {
+      "id": 0,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "price": 803,
+      "category": 1,
+      "rating": 4
+    },
+    {
       "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "price": 803,
+      "category": 1,
+      "rating": 4
     }
   ]
 }
